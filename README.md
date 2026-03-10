@@ -20,6 +20,9 @@ So if the target is 23, valid totals are:
 (23 ± 5)
 
 
+
+
+⚠️HOW TO ACTUALLY CODE THE GAME INSTRUCRTIONS⚠️
 1. Start the program
 Add a docstring explaining what the game does.
 Import the random module because we need randomness.
